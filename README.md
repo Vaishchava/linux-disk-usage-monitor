@@ -1,0 +1,22 @@
+# Linux Disk Usage Monitor
+
+A Bash script that monitors server disk usage and alerts when usage crosses a threshold.
+
+## Features
+
+- Checks current disk usage
+- Compares usage against threshold
+- Logs alerts into log file
+- Displays warning messages
+
+## Technologies Used
+
+- Bash scripting
+- Linux commands
+- Monitoring automation
+
+## Run Script
+
+```bash
+chmod +x disk_monitor.sh
+./disk_monitor.sh
